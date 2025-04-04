@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    height: 98vh;
+    font-family: "Hammersmith One", sans-serif;
+}
+
+td {
+    width: 5.5%;
+    height: 10%;
+}
+
+#logo img {
+    width: 25%;
+}
+
+#linha1 {
+    background-color: #285374;
+    height: 5px;
+}
+
+#emailimg {
+    width: 40px;
+    text-align: center;
+}
+
+#ajustemeio {
+    
+    text-align: center;
+}
+
+#imgrodape {
+    height: 30px;
+}
+
+#imgrodape1 {
+    height: 25px;
+}
+
+#colorodape {
+    background-color: #b4b4b4;
+}
+
+#linhamenu td {
+    border-bottom: solid #285374;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#formulario{
+    background-color: #285374;
+    color: white;
+    text-align: center;
+}
+#z{
+    height: 50px;
+}
+#quemsomos{
+    color: white;
+    background-color: #285374;
+    padding: 20px;
+}
+#b{
+    height: 75px;
+}
+#mouses{
+    background-color: #285374;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;  
+
+}
+#teclados{
+    background-color: #285374;
+    border-radius: 10px;
+    color: white;
+    padding: 10px; 
+}
+#mouseimg{
+    width: 176px;
+    height: 603px;
+}
+textarea{
+    resize: none;
+}
+#titulomonitoremouse{
+    background-color: #285374;
+    color: white;
+    padding: 10px;
+    
+}
+#fundomouseemonitor{
+    border-radius: 10px;
+    background-color:#285374;
+    color: white;
+    font-size:xx-large;
+   text-align: center;
+    
+}
+
